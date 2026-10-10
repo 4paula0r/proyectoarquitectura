@@ -1,0 +1,2 @@
+# proyectoarquitectura
+Arquitectura de computador 
